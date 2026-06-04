@@ -1,6 +1,38 @@
 [
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/scams-fraud.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/corporate/scams-fraud.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes.html",
     "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-dl-filter.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-dl-filter.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-dl.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-dl.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-table.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-table.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-table2.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-table2.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-topfilter.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-topfilter.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-xh-filter.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-xh-filter.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/campaigns/tax-schemes-xh.html",
+    "destination": "/tax-schemes-2026/en/revenue-agency/campaigns/tax-schemes-xh.html"
   }
 ]
